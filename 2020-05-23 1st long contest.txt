@@ -1,0 +1,31 @@
+Title: BRACU ACM Batch-09 1st Long Contest
+Link: https://vjudge.net/contest/375241?fbclid=IwAR3ms2LcyC88W4X1sqUbWzU0Tn9_1HuKNT_c2uhBAyJmSfIHwWkA5zElMI8#overview
+from 2020-05-23 19:35:00 to 2020-06-02 19:35:00
+
+Problems:
+A	CodeForces 1A
+B	CodeForces 231A
+C	CodeForces 50A
+D	CodeForces 4A
+E	CodeForces 282A
+F	CodeForces 677A
+G	CodeForces 770A
+H	CodeForces 767A
+I	CodeForces 43A
+J	CodeForces 43B
+K	CodeForces 63A
+L	CodeForces 1343B
+M	CodeForces 1196A
+N	CodeForces 1196B
+O	CodeForces 1180A
+P	CodeForces 746B
+Q	CodeForces 451B
+R	CodeForces 129B
+S	CodeForces 148B
+T	CodeForces 520B
+U	CodeForces 215B
+V	CodeForces 152B
+W	CodeForces 102B
+X	SPOJ MOZSATD
+Y	CodeForces 455A
+Z	CodeChef EID
